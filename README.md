@@ -2,7 +2,7 @@
 Its a fnaf world for modern anroid
 WARNING: This isnt a port from pc version all i did was find an apk used ai and it DOES have all the fnaf world mobile bugs still
 
-Tested devices: Honor 90 (Works), S21FE (Does not work because of opengl and architecture stuff)
+Tested devices: Honor 90 (Works), S21FE (Does not work because of opengl and architecture stuff), Meta quest 3 (Works)
 
 I USED A DEVELOPER SIGNATURE SO IT MAY NOT BE SIGNED
 
